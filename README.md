@@ -1,3 +1,7 @@
+# Demo Video Link
+
+https://drive.google.com/drive/folders/1eckhcCgPyjnPbLFItcc9nWmryfYJa6pA?usp=drive_link
+
 # Challenge 1
 
 ## Soil Type Classification using ResNet18
